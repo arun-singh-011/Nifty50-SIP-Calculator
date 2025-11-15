@@ -18,7 +18,7 @@ The calculator provides:
 - Total Investment amount
 - Final Value (Nominal)
 - Nominal Gains
-- Inflation Adjusted Value
+- Inflation-Adjusted Value
 - Real Gains (After Inflation)
 
 ## 🚀 Getting Started
